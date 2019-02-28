@@ -2,4 +2,4 @@
 
 Map pipelineParams = [ : ]
 
-masterPipelineee(pipelineParams)
+masterPipeline(pipelineParams)
